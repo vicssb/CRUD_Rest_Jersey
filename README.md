@@ -1,4 +1,4 @@
-<img src="jersey.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Jersey">
+<img src="jersey.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Jersey">
 <p align="center">
   <b> Projects developed in Java with Jersey </b> 
 </p> 
